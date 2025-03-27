@@ -1,0 +1,1 @@
+![[Learn HTML_ Tables Cheatsheet _ Codecademy.pdf]]

@@ -1,0 +1,1 @@
+move duplicate entries from terminal history: setopt HIST_IGNORE_DUPS
