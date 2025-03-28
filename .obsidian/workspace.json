@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "4ed34d305556ae6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d84e05235d29f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b88b28c109499e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7a962d50caa9dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1e8f9c985187992",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6256f0b4f8c89a7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "556fd3cd4ef05286",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "870574d9a802370e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce777b215e867ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e4712f59b2c6ac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ea0168004bfa41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "52d34af793d5f87c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a11dcf9c3fcce4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e9aa02ad3913d2c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "current_files/Learn HTML_ Elements and Structure Cheatsheet _ Codecademy 1.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Learn HTML_ Elements and Structure Cheatsheet _ Codecademy 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6256f0b4f8c89a7d",
+  "lastOpenFiles": [
+    "references/languages/regex/regex-guide.md",
+    "references/languages/regex/regex.md",
+    "references/languages/html-css/HTML/Learn HTML_ Tables Cheatsheet _ Codecademy.pdf",
+    "references/languages/html-css/HTML/Learn HTML_ Semantic HTML Cheatsheet _ Codecademy.pdf",
+    "references/languages/html-css/HTML/Learn HTML_ Elements and Structure Cheatsheet _ Codecademy 1.pdf",
+    "references/languages/html-css/HTML/Learn HTML_ Forms Cheatsheet _ Codecademy 1.pdf",
+    "references/languages/html-css/HTML/HTML.md",
+    "references/languages/html-css/HTML/HTML Tables.md",
+    "references/languages/html-css/HTML/HTML Semantics.md",
+    "references/languages/html-css/HTML/HTML Forms.md",
+    "references/languages/html-css/HTML/HTML Elements and Structure.md",
+    "references/languages/html-css/HTML",
+    "references/languages/regex/Regex.md",
+    "references/languages/regex",
+    "references/languages/untitled folder",
+    "references/study-resources/study-resources-markdown.md",
+    "references/study-resources/study-resources-arkdown.md",
+    "references/study-resources/Markdown.md",
+    "references/SPOT-resources/SPOT Interview Questions.md",
+    "references/SPOT-resources/RB129 Written Practice Questions.md",
+    "references/SPOT-resources/RB129 SPOT WiKi Problems.md",
+    "references/SPOT-resources/RB119 Wiki Questions.md",
+    "references/SPOT-resources/RB119 JMH Additional Problems.md",
+    "references/SPOT-resources/RB109 Wiki Questions.md",
+    "references/SPOT-resources/RB109 SPOT Session Outline.md",
+    "references/SPOT-resources/RB109 SPOT Pre-Session Info.md",
+    "references/SPOT-resources/RB109 SPOT Communication.md",
+    "references/SPOT-resources/Leading Session.md",
+    "references/SPOT-resources",
+    "references/untitled folder",
+    "references/languages/ruby/Rubocop.md",
+    "references/study-resources/Study Tips Launch School Webinar.md",
+    "references/development-environment/Setup Engineering Station.md",
+    "references/databases/sql/sql_commands_and_zoo_database_examples.md",
+    "references/languages/ruby/ruby-study-guide.md",
+    "references/languages/html-css/HTML References/Learn HTML_ Tables Cheatsheet _ Codecademy.pdf"
+  ]
+}
