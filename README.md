@@ -80,5 +80,14 @@ Each reference includes:
 - [js-fundamentals](https://github.com/joshuamichaelhall/js-fundamentals): JavaScript programming concepts and exercises
 - [python-data-analysis](https://github.com/joshuamichaelhall/python-data-analysis): Data analysis projects using Python
 
+## Acknowledgements
+
+This project was developed with assistance from Anthropic's Claude AI assistant, which helped with:
+- Documentation writing and organization
+- Code structure suggestions
+- Troubleshooting and debugging assistance
+
+Claude was used as a development aid while all final implementation decisions and code review were performed by the human developer.
+
 ## License
 This repository is available under the MIT License. See the LICENSE file for details.
