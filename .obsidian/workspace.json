@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "d2bac07813c32508",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf4f751172a7385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d0fe4d1917d928c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references/problem-solving/frameworks/problem-solving-pseudocode-reference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "problem-solving-pseudocode-reference"
+            }
+          },
+          {
+            "id": "46ea2a5413d56373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building an App from Concept to Completion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building an App from Concept to Completion"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c5e9fd1e972ad7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "62ef1a0fba5b08ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f067a1c72412ec5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c20450d67aea6c09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "84454daabc3b15a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a7c492f5fbec286",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c9409bdfb6b8f7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dea67aa1ff60246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Building an App from Concept to Completion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Building an App from Concept to Completion"
+            }
+          },
+          {
+            "id": "9cc1a75da873527e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Building an App from Concept to Completion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Building an App from Concept to Completion"
+            }
+          },
+          {
+            "id": "0f77614d15d4ae31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "095b85ab07cdc3db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Building an App from Concept to Completion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Building an App from Concept to Completion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46ea2a5413d56373",
+  "lastOpenFiles": [
+    "references/problem-solving/frameworks/problem-solving-pseudocode-reference.md",
+    "Building an App from Concept to Completion.md",
+    "references/problem-solving/frameworks/problem-solving-pseudocode-guide.md",
+    "references/problem-solving/frameworks/problem-solving-pedac-template-intermediate.md",
+    "references/problem-solving/frameworks/problem-solving-pedac-template-advanced.md",
+    "references/problem-solving/frameworks/problem-solving-coding-tips.md",
+    "references/problem-solving/frameworks/problem-solving-pedac-overview.md",
+    "references/problem-solving/frameworks/problem-solving-flowchart-guide.md"
+  ]
+}
