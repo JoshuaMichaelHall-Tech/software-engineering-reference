@@ -1,3 +1,6 @@
+# This Ruby CLI tool was built during my software engineering studies.
+  I now focus on DevOps/Infrastructure automation - see my AWS/Terraform projects.
+  
 # Software Engineering Reference
 
 ## Overview
